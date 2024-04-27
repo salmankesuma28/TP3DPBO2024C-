@@ -1,5 +1,5 @@
 # TP3DPBO2024C1
-# TP3DPBO2024C1
+
 Saya M Salman Kesuma NIM 2109276 mengerjakan TP 3 mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin.
 
 Untuk TP3 ini menggunakan tema data pembalap, dimana terdiri dari 3 tabel, yaitu pembalap, divisi, dan team.
